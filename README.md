@@ -42,13 +42,6 @@ A desktop-based Event Management System built using Java Swing, JDBC, and MySQL.
 Repository:
 - https://github.com/garvit-budania/EventHub
 
-## GitHub Statistics
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=garvit-budania&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvit-budania&layout=compact" />
-</p>
-
 ## Connect
 
 - LinkedIn: www.linkedin.com/in/garvit5
