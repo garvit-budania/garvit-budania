@@ -15,7 +15,6 @@ Computer Science student at BITS Pilani with interests in Software Development, 
 - Database Management Systems
 - SQL
 - Software Engineering
-- Concurrent Systems
 
 ## Projects
 
@@ -43,13 +42,6 @@ A desktop-based Event Management System built using Java Swing, JDBC, and MySQL.
 Repository:
 - https://github.com/garvit-budania/EventHub
 
-## Currently Learning
-
-- Advanced Data Structures & Algorithms in C++
-- Java Backend Development
-- Database Systems
-- Software Design Principles
-
 ## GitHub Statistics
 
 <p>
@@ -59,5 +51,5 @@ Repository:
 
 ## Connect
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+- LinkedIn: www.linkedin.com/in/garvit5
+- Email: thisisgarvit5@gmail.com
