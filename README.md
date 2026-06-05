@@ -1,15 +1,63 @@
 # Hi, I'm Garvit Budania
 
-Computer Science Student at BITS Pilani
+Computer Science student at BITS Pilani with interests in Software Development, Object-Oriented Design, Databases, and Data Structures & Algorithms.
 
-## Skills
+## Languages & Tools
 
-- C++
-- Java
-- SQL
-- OOP
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,mysql,git,github,vscode" />
+</p>
+
+## Core Areas
+
 - Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- SQL
+- Software Engineering
+- Concurrent Systems
 
 ## Projects
 
-- EventHub (In Progress)
+### EventHub
+
+A desktop-based Event Management System built using Java Swing, JDBC, and MySQL.
+
+**Features**
+
+- Role-based Authentication
+- Event Creation and Management
+- Ticket Booking System
+- Booking History
+- Transaction History
+- Wallet Management
+- Transaction-safe Booking Workflow
+- Database Concurrency Protection
+
+**Tech Stack**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github" />
+</p>
+
+Repository:
+- https://github.com/garvit-budania/EventHub
+
+## Currently Learning
+
+- Advanced Data Structures & Algorithms in C++
+- Java Backend Development
+- Database Systems
+- Software Design Principles
+
+## GitHub Statistics
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=garvit-budania&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvit-budania&layout=compact" />
+</p>
+
+## Connect
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- Email: YOUR_EMAIL
