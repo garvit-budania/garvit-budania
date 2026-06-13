@@ -1,20 +1,21 @@
-# Hi, I'm Garvit Budania
+# Garvit Budania
 
-Computer Science student at BITS Pilani with interests in Software Development, Object-Oriented Design, Databases, and Data Structures & Algorithms.
+Computer Science student at BITS Pilani with interests in Software Development, Object-Oriented Design, Database Systems, and Data Structures & Algorithms.
 
-## Languages & Tools
+## Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,mysql,docker,git,github,vscode" />
 </p>
 
-## Core Areas
+## Areas of Interest
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Database Management Systems
-- SQL
 - Software Engineering
+
+---
 
 ## Projects
 
@@ -22,16 +23,15 @@ Computer Science student at BITS Pilani with interests in Software Development, 
 
 A desktop-based Event Management System built using Java Swing, JDBC, and MySQL.
 
-**Features**
+**Key Features**
 
-- Role-based Authentication
-- Event Creation and Management
-- Ticket Booking System
-- Booking History
-- Transaction History
-- Wallet Management
-- Transaction-safe Booking Workflow
-- Database Concurrency Protection
+- Role-based authentication for customers and administrators
+- Event creation and management workflows
+- Ticket booking and transaction tracking
+- Wallet balance management
+- Transaction-safe booking using commit and rollback mechanisms
+- Concurrency protection using row-level locking (`SELECT ... FOR UPDATE`)
+- Layered architecture using DAO and Service design patterns
 
 **Tech Stack**
 
@@ -39,10 +39,43 @@ A desktop-based Event Management System built using Java Swing, JDBC, and MySQL.
   <img src="https://skillicons.dev/icons?i=java,mysql,git,github" />
 </p>
 
-Repository:
+**Repository**
+
 - https://github.com/garvit-budania/EventHub
+
+---
+
+### Transportation Network Analysis Engine
+
+A graph-based transportation network simulator built in C++ for route planning, network optimization, flow analysis, and resilience evaluation.
+
+**Key Features**
+
+- Modeled a transportation network consisting of 15 cities and 20 weighted routes
+- Implemented BFS, DFS, Dijkstra, A*, Kruskal MST, and Edmonds-Karp algorithms
+- Added route optimization using distance, travel time, and cost metrics
+- Performed resilience analysis through articulation point and bridge detection
+- Exported transportation networks using Graphviz-compatible DOT files
+- Automated builds using GitHub Actions and containerized execution using Docker
+
+**Tech Stack**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,docker,github" />
+</p>
+
+**Repository**
+
+- https://github.com/garvit-budania/Transportation-Network-Analysis-Engine
+
+---
 
 ## Connect
 
-- LinkedIn: www.linkedin.com/in/garvit5
-- Email: thisisgarvit5@gmail.com
+**LinkedIn**
+
+- https://www.linkedin.com/in/garvit5
+
+**Email**
+
+- thisisgarvit5@gmail.com
